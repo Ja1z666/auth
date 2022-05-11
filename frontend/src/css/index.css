@@ -1,0 +1,13 @@
+.components{
+  display: flex;
+  flex-direction: column;
+}
+
+.components input, .components button{
+  max-width: 200px;
+  margin-top: 10px;
+}
+
+.components input{
+  height: 30px;
+}
